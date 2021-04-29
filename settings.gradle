@@ -1,0 +1,2 @@
+include ':app', ':trakdeskandroidsdk'
+rootProject.name='TrakDesk'

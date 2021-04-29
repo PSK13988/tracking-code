@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4295FF</color>
+    <color name="colorPrimaryDark">#4295FF</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorLightGoldenRodYellow">#fafad2</color>
+    <color name="colorGrey">#404040</color>
+    <color name="colorLightGrey">#949191</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorItemSelection">#C4C4C4</color>
+    <color name="recycler_view_item_swipe_left_background">#1B7AC3</color>
+    <color name="recycler_view_item_swipe_right_background">#E21B1B</color>
+    <color name="colorBackground">#F9F9F9</color>
+    <color name="colorBlue">#4295ff</color>
+    <color name="colorHeading">#1B7AC3</color>
+    <color name="colorSeparator">#E1E1E1</color>
+    <color name="colorGradient">#FF1B7AC3</color>
+    <color name="colorUnverified">#FF0000</color>
+    <color name="colorVerified">#00FF00</color>
+    <color name="colorContactEmail">#9C9C9C</color>
+    <color name="colorContactName">#363636</color>
+    <color name="colorIndex">#D2D2D2</color>
+    <color name="colorIndexHighlighted">#363636</color>
+    <color name="colorBottomBar">#4295FF</color>
+</resources>

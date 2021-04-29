@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_all_contacts"
+        android:icon="@drawable/ic_nav_all_contacts"
+        android:title="@string/str_all_contacts" />
+    <item
+        android:id="@+id/nav_verified_contacts"
+        android:icon="@drawable/ic_nav_verified_contacts"
+        android:title="@string/str_verified_contacts" />
+    <item
+        android:id="@+id/nav_unverified_contacts"
+        android:icon="@drawable/ic_nav_unverified_contacts"
+        android:title="@string/str_unverified_contacts" />
+    <item
+        android:id="@+id/nav_blocked_contacts"
+        android:icon="@drawable/ic_nav_blocked_contacts"
+        android:title="@string/str_block_contacts" />
+
+    <item
+        android:id="@+id/nav_deleted_contacts"
+        android:icon="@drawable/ic_nav_deleted_contacts"
+        android:title="@string/str_deleted_contacts" />
+
+
+</menu>

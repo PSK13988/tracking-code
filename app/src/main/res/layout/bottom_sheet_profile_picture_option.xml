@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_camera_alt_black_24dp"
+        android:drawablePadding="@dimen/_5sdp"
+        android:padding="@dimen/_10sdp"
+        android:text="Camera" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableStart="@drawable/ic_image_black_24dp"
+        android:drawablePadding="@dimen/_5sdp"
+        android:padding="@dimen/_10sdp"
+        android:text="Gallary" />
+
+</LinearLayout>

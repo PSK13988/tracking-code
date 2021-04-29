@@ -1,0 +1,5 @@
+E:\rnd\TrakDesk\Trakdesk-debug.jks
+
+Password: TestingPsk@123
+Alias: Trakdesk
+Password: TestPsk@12345

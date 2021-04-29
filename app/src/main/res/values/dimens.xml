@@ -1,0 +1,38 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+
+    <!--<dimen name="dp_16">16dp</dimen>
+
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">@dimen/_7sdp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">@dimen/_8sdp</dimen>
+
+    <dimen name="design_fab_size_normal" tools:override="true">62dp</dimen>
+    <dimen name="design_fab_size_mini" tools:override="true">30dp</dimen>
+    <dimen name="design_fab_image_size" tools:override="true">40dp</dimen>-->
+
+    <dimen name="nav_header_vertical_spacing">@dimen/_5sdp</dimen>
+    <dimen name="default_text_size">@dimen/_12sdp</dimen>
+    <dimen name="default_heading_size">@dimen/_13sdp</dimen>
+    <dimen name="default_large_heading_size">@dimen/_15sdp</dimen>
+    <dimen name="default_small_text_size">@dimen/_11sdp</dimen>
+    <dimen name="default_height">@dimen/_33sdp</dimen>
+    <dimen name="default_multiline_height">@dimen/_65sdp</dimen>
+    <dimen name="default_edit_memo_multiline_height">@dimen/_64sdp</dimen>
+    <dimen name="default_button_height">@dimen/_35sdp</dimen>
+    <dimen name="default_list_item_height">@dimen/_40sdp</dimen>
+    <dimen name="default_view_height">@dimen/_45sdp</dimen>
+    <dimen name="default_panel_height">@dimen/_290sdp</dimen>
+
+    <dimen name="toolbar_item_padding">16dp</dimen>
+    <dimen name="item_vertical_margin">16dp</dimen>
+    <dimen name="dialog_content_horizontal_padding">24dp</dimen>
+    <dimen name="dialog_content_top_padding">20dp</dimen>
+    <dimen name="dialog_content_bottom_padding">20dp</dimen>
+
+    <dimen name="design_navigation_icon_padding" tools:override="true">0dp</dimen>
+    <dimen name="design_navigation_separator_vertical_padding" tools:override="true">0dp</dimen>
+    <dimen name="card_side_margin">4dp</dimen>
+    <dimen name="card_zero_margin">0dp</dimen>
+</resources>

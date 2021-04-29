@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_30sdp"
+            android:layout_marginTop="@dimen/_150sdp"
+            android:layout_marginEnd="@dimen/_30sdp"
+            android:drawableStart="@drawable/ic_android_small"
+            android:drawableEnd="@drawable/ic_android_small"
+            android:drawablePadding="@dimen/_11sdp"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Enter Your TrakDesk URL" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_30sdp"
+            android:layout_marginTop="@dimen/_150sdp"
+            android:layout_marginEnd="@dimen/_30sdp"
+            android:background="@drawable/button_border"
+            android:text="NEXT" />
+
+    </LinearLayout>
+</LinearLayout>
